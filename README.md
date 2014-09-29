@@ -1,4 +1,4 @@
 Wiki
 ====
 
-Wiki of UAPP (NTUST.im)
+[Here](https://github.com/NTUST-IM/Wiki/wiki).
